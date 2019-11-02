@@ -1,0 +1,3 @@
+Executed SQL Statement : insert into `schoolmanagement`.`class` (`Serial`, `Class`) values ('', NULL) 
+Error Number : 1062 
+Error Message: Duplicate entry '0' for key 1 
